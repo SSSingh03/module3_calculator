@@ -1,4 +1,6 @@
 # 📦 Project Setup
+IS601 Module 3 – Interactive Calculator  
+Completed by Sahaj Singh
 
 ---
 
